@@ -61,7 +61,8 @@ Algorithm:
     return reordered
     
 
-Time Complexity: O(nlogn)
+Time Complexity: O(nlogk), where n is the length of the string and k is the number of unique characters in the string
+Space Complexity: O(n), where n is the length of the string
 
 */
 
