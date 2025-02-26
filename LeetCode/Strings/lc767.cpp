@@ -37,7 +37,7 @@ Algorithm:
         second_frequent <- top element
         pop the top element
 
-        reordered <- reordered + first_frequent.character + second_frequent.__cpp_unicode_characters
+        reordered <- reordered + first_frequent.character + second_frequent.character
 
         first_frequent.frequency--
         second_frequent.frequency--
