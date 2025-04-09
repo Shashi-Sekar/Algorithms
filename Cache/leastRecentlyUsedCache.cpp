@@ -1,10 +1,5 @@
 /*
 C++ Implmentation of Least Recently Used Cache
-
-What is LRU Cache?
-
-
-First line of thought:
     
 Data Structures:
     1. Doubly Linked List: maintain the access order of the elements
